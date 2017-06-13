@@ -1,0 +1,14 @@
+{
+    "name": "lguima/challenge-backend-developer",
+    "type": "application",
+    "description": "Challenge Backend Developer",
+    "authors": [
+        {
+            "name": "Lucas Guima",
+            "email": "lucasguima.felipe@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
